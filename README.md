@@ -5,7 +5,8 @@
 [gitimage](https://github.com/SFirdose/SFirdose/assets/126900014/04f194de-e9ca-4009-b340-675854b5fbc8)>
 
 
- <img src="https://komarev.com/ghpvc/?username=sfirdose&label=Profile%20views&color=0e75b6&style=flat" alt="sfirdose" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sfirdose&label=Profile%20views&color=0e75b6&style=flat" alt="sfirdose" /> </p>
 
 - 📫 How to reach me **syedfirdose41@gmail.com**
 
