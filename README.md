@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sfirdose&label=Profile%20views&color=0e75b6&style=flat" alt="sfirdose" /> </p>
+ <img src="https://komarev.com/ghpvc/?username=sfirdose&label=Profile%20views&color=0e75b6&style=flat" alt="sfirdose" /> </p>
 
 - 📫 How to reach me **syedfirdose41@gmail.com**
 
