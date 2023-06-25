@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Firdose</h1>
 <h3 align="center">A passionate Data Science enthusiastic from India</h3>
 
-<h3 align="right" alt ="coding" Width="400" src="https://tse1.mm.bing.net/th?id=OIP.gUgIK8kl8QXyt7ohG2L8CQHaC5&pid=Api&P=0&h=180">
+<h3 align="right" alt ="coding" width="400" src="https://tse1.mm.bing.net/th?id=OIP.gUgIK8kl8QXyt7ohG2L8CQHaC5&pid=Api&P=0&h=180">
 
-<img src="https://komarev.com/ghpvc/?username=sfirdose&label=Profile%20views&color=0e75b6&style=flat" alt="sfirdose" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=sfirdose&label=Profile%20views&color=0e75b6&style=flat" alt="sfirdose" /> </p>
 
 - 📫 How to reach me **syedfirdose41@gmail.com**
 
